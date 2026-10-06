@@ -4,9 +4,7 @@
 
 Local Sewa is a modern, responsive web application tailored for **Kathmandu Valley, Nepal** (Kathmandu, Lalitpur, and Bhaktapur). It connects households and commercial establishments with verified local tradespeople and technical specialists—including electricians, plumbers, carpenters, mechanics, home cleaning teams, IT technicians, appliance repairers, and locksmiths.
 
----
-
-![alt text](image.png)
+--
 
 ## 1. Problem Statement
 
@@ -160,9 +158,5 @@ The frontend is modularized to easily connect with a production backend:
 - **Nepali Localization**: Full Nepali language toggle (नेपाली भाषा सहयोग).
 
 ---
+<img width="1903" height="903" alt="image" src="https://github.com/user-attachments/assets/bc3a1248-dc97-4904-9c61-24a4a7196fa4" />
 
-## 8. Author & License
-
-- **Developed for**: Local Sewa Nepal Pvt. Ltd.
-- **Target Market**: Kathmandu Valley, Nepal
-- **License**: MIT
