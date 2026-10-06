@@ -1,0 +1,6 @@
+{
+  "name": "Local Sewa",
+  "description": "Nepal's trusted local service marketplace connecting households and businesses with verified electricians, plumbers, carpenters, IT technicians, and home repair professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
